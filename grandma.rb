@@ -12,4 +12,5 @@ elsif sentence== "WHAT?"# NO, NOT SINCE 1938!
   puts "NO, NOT SINCE 1938!"
 elsif sentence== "I LOVE YOU GRANDMA!"# However if you say 'I LOVE YOU GRANDMA!', she should respond with
   puts "I LOVE YOU TOO PUMPKIN!"
+  end
 end
